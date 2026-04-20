@@ -79,11 +79,7 @@ python tools/build_report_html.py
 
 ### 6.1. Эталон полной страницы (`baselines/google.png`)
 
-![Эталон главной страницы Google](./baselines/google.png)
-
 ### 6.2. Скриншот элемента — поле поиска (`diffs/google_search_form.png`)
-
-![Поле поиска Google](./diffs/google_search_form.png)
 
 ---
 
